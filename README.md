@@ -50,7 +50,15 @@ Model performance :
 - 총 800개로 평가
 
 
-![결과1](https://github.com/oosij/sllm3task/assets/94098546/3d621627-7ac4-4065-bad8-24a405e4a481)
+![image](https://github.com/oosij/sllm3task/assets/94098546/a9d1e220-4210-453c-82d4-c8cdbaa5700e)
+
+
+![image](https://github.com/oosij/sllm3task/assets/94098546/a010365d-5f68-470b-a305-a206bdc129e3)
+
+
+![image](https://github.com/oosij/sllm3task/assets/94098546/9cf93acc-7e7d-4493-b955-24a865ec1e14)
+
+
 
 
 
