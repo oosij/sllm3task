@@ -18,7 +18,7 @@
 코드 부분은 정리가 많이 필요한데, 추후 시간이 날 경우, 따로 정리해둘 예정입니다. 
 
 학습한 최종 모델 (평가 모델 (비율 조정)기반으로 분리한 테스트 데이터셋까지 학습한 QLora 가중치 모델)은 허깅페이스에 업로드하였습니다. (상세한 정보는 추후 기약)
-=> https://huggingface.co/oosij/llama2-13b-3task/tree/main
+=> https://huggingface.co/oosij/llama2-ko-13b-3task/tree/main
 
 
 달성한 점 :
@@ -39,7 +39,8 @@
 Sample :
 - 정성 평가에 사용되서 7b, 13b 각각 파리미터 조정 중 13b 조정버전을 선택 (30b, 70b은 시간/비용 상 추후 기약)
 
-![image](https://github.com/oosij/sllm3task/assets/94098546/e9e1663c-eec1-4dda-a0f2-368a8f83e663)
+![image](https://github.com/oosij/sllm3task/assets/94098546/0d17bfea-c6db-41fd-b87d-3a69badfbe3b)
+
 
 
 Model performance :
