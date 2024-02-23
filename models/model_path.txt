@@ -1,1 +1,1 @@
-https://huggingface.co/oosij/llama2-13b-3task/tree/main
+https://huggingface.co/oosij/llama2-ko-13b-3task/tree/main
